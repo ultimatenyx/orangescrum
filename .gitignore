@@ -1,2 +1,8 @@
 /app/tmp/*
 /app/webroot/files/case_files/*
+
+
+# Eclipse Project Files
+.buildpath
+.project
+.settings/
