@@ -1,8 +1,0 @@
-2016-12-14 16:21:46 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\7\xampp\htdocs\orangescrum\lib\Cake\Utility\String.php, line 25]
-2016-12-14 16:21:46 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
-Stack Trace:
-#0 C:\7\xampp\htdocs\orangescrum\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\7\\xampp\\htdo...', 25)
-#1 C:\7\xampp\htdocs\orangescrum\lib\Cake\Core\App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\7\\xampp\\htdo...', 25, Array)
-#2 C:\7\xampp\htdocs\orangescrum\lib\Cake\Core\App.php(902): App::_checkFatalError()
-#3 [internal function]: App::shutdown()
-#4 {main}

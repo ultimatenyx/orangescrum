@@ -1,6 +1,6 @@
-/app/tmp/*
-/app/webroot/files/case_files/*
-
+app/tmp/*
+app/webroot/files/case_files/*
+app/Config/database.php
 
 # Eclipse Project Files
 .buildpath
